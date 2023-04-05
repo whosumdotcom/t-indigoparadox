@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T23:32:43Z",
+  "IdClaims": [
+    {
+      "Claim": "t:indigoparadox"
+    },
+    {
+      "Claim": "gh:indigoparadox"
+    },
+    {
+      "Claim": "mdon:@indigoparadox@mastodon.social"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "14b26f95a4efa44a382286b2",
+    "Timestamp": "2023-04-05T23:34:58Z",
+    "Signature": "7a07238e179040031bacd0939e866b0c05b07ba21e9c2c12c5b80a307ee86298b1af8283a84d5d52d40ddd6f40c749ace80af7f001890a5434316a02b8426b8bba41fd186c23da2847515deaedee51b96c9fee824b2f49fd0099dde226292dbdc581fc641a7a93315ca941bc2cb173d35ef5ede7d881da8c2a30350950b22ec32b95eb4ee84a992b576c0586f8beb6cbf366e8a27003762ec265267c1a04a706274e6c0c13778de03fd9bf6e589b905678065cb55f7488c6e814c760154f278b14722aac17df32b714c03fc78ff48cd0a206b3af0e0723db75823f889b31882b76f8a3cc0fa82c6a741f45ea99ebd233ecd65ad81f6b3c562d8f338497b39053"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "dc7256e023f2b777816ea1a2a0d6e736c3fafe6388d54012b1a8fe1415d19c75",
+  "ContentToHash": "v1|gh:indigoparadox,mdon:@indigoparadox@mastodon.social,t:indigoparadox|2023-04-05T23:32:43Z"
+}
